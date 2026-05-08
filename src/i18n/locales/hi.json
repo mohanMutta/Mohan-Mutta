@@ -1,0 +1,19 @@
+{
+  "common": {
+    "welcome": "Live Fit Gym में आपका स्वागत है",
+    "login": "लॉगिन",
+    "register": "पंजीकरण",
+    "logout": "लॉगआउट",
+    "settings": "सेटिंग्स",
+    "language": "भाषा",
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "view": "देखें",
+    "dashboard": "डैशबोर्ड",
+    "admin": "एडमिन",
+    "trainer": "ट्रेनर",
+    "member": "सदस्य"
+  }
+}

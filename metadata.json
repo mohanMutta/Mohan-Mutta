@@ -1,0 +1,6 @@
+{
+  "name": "Live Fit Gym",
+  "description": "A modern AI-powered gym management platform featuring role-based access, multi-language support, and advanced fitness tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}

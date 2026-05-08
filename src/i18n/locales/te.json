@@ -1,0 +1,19 @@
+{
+  "common": {
+    "welcome": "Live Fit Gym కు స్వాగతం",
+    "login": "లాగిన్",
+    "register": "రిజిస్టర్",
+    "logout": "లాగ్అవుట్",
+    "settings": "సెట్టింగ్స్",
+    "language": "భాష",
+    "save": "సేవ్",
+    "cancel": "రద్దు",
+    "delete": "తొలగించు",
+    "edit": "ఎడిట్",
+    "view": "చూడండి",
+    "dashboard": "డాష్‌బోర్డ్",
+    "admin": "అడ్మిన్",
+    "trainer": "ట్రైనర్",
+    "member": "సభ్యుడు"
+  }
+}

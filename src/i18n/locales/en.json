@@ -1,0 +1,48 @@
+{
+  "common": {
+    "welcome": "Welcome to Live Fit Gym",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "settings": "Settings",
+    "language": "Language",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "dashboard": "Dashboard",
+    "admin": "Admin",
+    "trainer": "Trainer",
+    "member": "Member"
+  },
+  "dashboard": {
+    "activeMembers": "Active Members",
+    "revenue": "Revenue",
+    "attendance": "Attendance",
+    "streak": "Gym Streak",
+    "renewals": "Upcoming Renewals",
+    "quickActions": "Quick Actions"
+  },
+  "attendance": {
+    "checkIn": "Check In",
+    "qrCheckIn": "QR Check-In",
+    "manualCheckIn": "Manual Check-In",
+    "history": "Attendance History",
+    "scanPrompt": "Scan QR code at the entrance"
+  },
+  "plans": {
+    "workout": "Workout Plans",
+    "diet": "Diet Plans",
+    "exercises": "Exercises",
+    "sets": "Sets",
+    "reps": "Reps",
+    "rest": "Rest",
+    "weight": "Weight",
+    "calories": "Calories",
+    "protein": "Protein",
+    "carbs": "Carbs",
+    "fats": "Fats",
+    "water": "Water Tracking"
+  }
+}
